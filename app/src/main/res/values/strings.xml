@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1">Where is this place situated ?</string>
+    <string name="question2">What is the name of this Cryptocurrency ?</string>
+    <string name="question3">Which movie scene is this ?</string>
+    <string name="question4">What is this instrument called ?</string>
+    <string name="question5">Which transport system is this ?</string>
+
+    <string name="image1">https://assets.telegraphindia.com/telegraph/05648444-7dc7-4c71-9a25-656e98a6a0a0.jpg</string>
+    <string name="image2">https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_.Hrdvci2bw/v1/-1x-1.jpg</string>
+    <string name="image3">https://images-na.ssl-images-amazon.com/images/S/pv-target-images/67cfabf311d5e5071c2396004223da92848a903258c851bc4b619d11634b3357._SX1080_.png</string>
+    <string name="image4">https://www.kopfpercussion.com/product_images/uploaded_images/the-cajon-kopf-percussion.jpg</string>
+    <string name="image5">https://www.holidify.com/images/cmsuploads/compressed/7692908922_4fa060cfa5_b_20180622015816.jpg</string>
+
+    <string name="ans1">2</string>
+    <string name="ans2">2</string>
+    <string name="ans3">3</string>
+    <string name="ans4">4</string>
+    <string name="ans5">1</string>
+
+    <string name="question1.1">Mumbai</string>
+    <string name="question1.2">Kolkata</string>
+    <string name="question1.3">Delhi</string>
+    <string name="question1.4">Hyderabad</string>
+
+    <string name="question2.1">Bitcoin</string>
+    <string name="question2.2">Dogecoin</string>
+    <string name="question2.3">Ethereum</string>
+    <string name="question2.4">Litecoin</string>
+
+    <string name="question3.1">Tron</string>
+    <string name="question3.2">The Job</string>
+    <string name="question3.3">The Internship</string>
+    <string name="question3.4">Hackers</string>
+
+    <string name="question4.1">Drum</string>
+    <string name="question4.2">Guitar</string>
+    <string name="question4.3">Tabla</string>
+    <string name="question4.4">Cajon</string>
+
+    <string name="question5.1">Trum</string>
+    <string name="question5.2">Metro</string>
+    <string name="question5.3">Train</string>
+    <string name="question5.4">Mini Bus</string>
+
+
+</resources>
